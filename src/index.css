@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Atkinson+Hyperlegible:wght@400;700&display=swap');
+
+@theme {
+  --color-brand-indigo: #3641A5;
+  --color-brand-ink: #111827;
+  --color-brand-bg: #F8FAFC;
+  --color-brand-teal: #0F766E;
+
+  --font-heading: "Space Grotesk", sans-serif;
+  --font-body: "Atkinson Hyperlegible", sans-serif;
+}
